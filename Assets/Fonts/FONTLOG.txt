@@ -1,0 +1,57 @@
+
+  FONTLOG: Autobahn
+
+  --------------------------------------------
+  Autobahn
+  --------------------------------------------
+
+  This file provides detailed information on the Autobahn 
+  font software.
+  This information should be distributed along with the 
+  Autobahn font and any derivative works.
+  
+  Autobahn Font Information
+  
+  Hart, kantig, geradlinig, wie Betonplatten, so sind sie, 
+  die sogenannten schlichten gotischen Schriften. Viele 
+  nennen sie "Schaftstiefel-Grotesk"oder sehen in ihnen 
+  Nazi-Schriften.
+  
+  Aber das stimmt nur in so weit, wie es zutrifft, das 
+  Autobahnen Nazi-Straßen sind. Es war schlicht das 
+  Formempfinden der Zeit, einer Zeit, die zwar durch falsche 
+  Politik geprägt war, aber eben auch durch Fortschritt, 
+  Geschindigkeit und größerer Mobilität, und hier passten 
+  einfach die Schnörkel und Elefantenrüssel der alten 
+  Schriften nicht mehr. Man suchte nach neuen Formen, welche 
+  diese diese Entwicklung wiederspiegelt, schnörkellos, 
+  schlicht, schnell und glatt, eben wie die Betonbänder der 
+  Autobahnen.
+  
+  
+  ChangeLog
+  
+  7 Nov 2015 (Christoph Haag)
+- created fontforge sources as base to work on GNU/Linux
+- added FONTLOG to .sfdir
+- Mastered Font from Fontforge SFDIR to 
+  UFO,OTF,TTF,EOT,WOFF,SVG
+  
+  12 Oct 2015 (Peter Wiegel)
+- Initial release.
+  
+  If you make modifications be sure to add your name (N), 
+  email (E), web-address (if you have one) (W) and 
+  description (D). This list is in alphabetical order.
+  
+  N: Christoph Haag
+  E: christoph@lafkon.net
+  W: www.lafkon.net
+  D: Transformer
+  
+  N: Peter Wiegel
+  E: wiegel@aepnet.de
+  W: www.peter-wiegel.de 
+  D: Font Maker Deluxe
+
+

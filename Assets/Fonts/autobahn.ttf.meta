@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e1e733255d93ca84db7f0e26817089ef
+timeCreated: 1498358779
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Autobahn
+  fontNames:
+  - Autobahn
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
