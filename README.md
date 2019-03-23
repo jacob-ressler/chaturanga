@@ -9,8 +9,6 @@ far from perfect. I'm sure a lot of the things I did in making this were wrong o
 
 ## Getting started
 
----
-
 ### **Download**
 
 I do not plan to release DRM-free builds, but you are free to create your own. The latest release build will always be available for free on the [store page](https://play.google.com/store/apps/details?id=com.Livid.Chaturanga).
