@@ -1,5 +1,7 @@
 # Chaturanga
 
+It's chess! With 4 players! And dice! And... a boat?
+
 ![4 - Game](https://user-images.githubusercontent.com/37934912/54872693-8e5ad600-4d9e-11e9-85a1-4935ae610f23.PNG)
 
 Chaturanga is a 4-player board game. It plays very similarly to chess, but with a few twists and extra mechanics. Check out the [store page](https://play.google.com/store/apps/details?id=com.Livid.Chaturanga) for a more detailed explanation.
