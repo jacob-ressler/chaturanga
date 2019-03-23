@@ -26,3 +26,10 @@ Follow these steps to set up the project for development in Unity:
 5. Existing game scenes are available under `Assets > Scenes` in the Project Heirarchy
 
 And there you go, your Unity project is all set for development!
+
+## Regarding the Art, Sounds, and Music...
+
+As I am not the creator of all of the game assets, licensing will vary from asset to asset. Generally speaking, the following will hold true:
+- All art (graphics) were created by me and fall under the project's [MIT](https://opensource.org/licenses/MIT) license.
+- Most sound effects are samples I found online and are unlicensed.
+- The music is by Kevin MacLeod and falls under the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/us/) license.
