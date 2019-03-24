@@ -33,3 +33,8 @@ As I am not the creator of all of the game assets, licensing will vary from asse
 - All graphical art was created by me and falls under the project's [MIT](https://opensource.org/licenses/MIT) license.
 - Most sound effects are samples I found online and are unlicensed.
 - The music is by Kevin MacLeod and falls under the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/us/) license.
+
+## Project Information
+
+- Developed by Jacob Ressler
+- Summer 2017
