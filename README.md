@@ -9,7 +9,7 @@ Chaturanga is a 4-player board game. It plays very similarly to chess, but with 
 This was my first project in Unity and my first public mobile app release. Needless to say, it's
 far from perfect. I'm sure a lot of the things I did in making this were wrong or unconventional, so I plan to dive back in over summer 2019 to clean up and improve as much as I can.
 
-## Features
+## Features already implemented
 
 - Functioning AI (not very smart yet)
   - 3 difficulty levels, 4 randomly-assigned playstyles
@@ -17,6 +17,17 @@ far from perfect. I'm sure a lot of the things I did in making this were wrong o
 - Sound and music options (will be made more extensive)
 - In-game tutorial on how to play (text-based with images)
 - Atmospherically apt music and sound effects
+
+## Features to be added
+
+- Animation (because right now, things just magically happen)
+- Better music and sound control options (volume sliders instead of checkboxes)
+- Improved AI so it isn't so dumb and unpredictable
+- Better victory screens
+- Clean up in-game UI (move some buttons into a pause menu)
+- Improved screen resolution/apect ratio support
+  - Fix issues with non-16:9 screens cutting off parts of content
+- Support for portrait mode
 
 ## Getting started
 
